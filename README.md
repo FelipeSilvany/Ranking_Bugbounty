@@ -5,6 +5,7 @@ Essas experiências me ajudam a ser uma referência para os times hands-on, unin
 <p><b>📌 Prêmios e Reconhecimentos:</b></p>
 <p>🏆 Top 01 Bug Bounty Brasil 2025 — HuntersPay</p>
 <p>🏆 Top 07 Bug Bounty Brasil 2025 — BugPay/Hackaflag </p>
+<p>🏆 Top 09 Pentest Leadership at Strike® 2025 </p>
 <p>🏆 Top 05 Bug Bounty Europa / World 2023 — Bugbounter</p>
 <p>🏆 Top 03 Bug Bounty Brasil 2022 — Bughunt</p>
 <p>🏆 Top 10 Information Security Professional Award 2021 — Oncon Icon Awards</p>
