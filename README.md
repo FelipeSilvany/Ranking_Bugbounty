@@ -3,7 +3,7 @@ Ao longo da minha trajetória, mantenho uma prática regular e constante aos est
 Essas experiências me ajudam a ser uma referência para os times hands-on, unindo o olhar de gestão à vivência prática. Entender como os ataques acontecem é essencial para definir defesas inteligentes, estratégicas e efetivas.<br>
 <br>
 <p><b>📌 Prêmios e Reconhecimentos:</b></p>
-<p>🏆 Top 01 Bug Bounty Brasil 2025 — HuntersPay® </p>
+<p>🏆 Top 01 Bug Bounty Brasil 2026 — HuntersPay® </p>
 <p>🏆 Top 163 Criadores de conteúdo sobre Cybersecurity no Linkedin pela Favikon®</p>
 <p>🏆 Top 01 Bug Bounty Brasil 2025 — HuntersPay® </p>
 <p>🏆 Top 04 Pentest Leadership at Strike 2025 — Strike® </p>
