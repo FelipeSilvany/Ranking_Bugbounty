@@ -4,7 +4,7 @@ Essas experiências me ajudam a ser uma referência para os times hands-on, unin
 <br>
 <p><b>📌 Prêmios e Reconhecimentos:</b></p>
 <p>🏆 Top 01 Bug Bounty Brasil 2026 — HuntersPay® </p>
-<p>🏆 Top 163 Criadores de conteúdo sobre Cybersecurity no Linkedin pela Favikon®</p>
+<p>🏆 Top 163 Criadores de conteúdo sobre Cybersecurity no Linkedin — Favikon®</p>
 <p>🏆 Top 01 Bug Bounty Brasil 2025 — HuntersPay® </p>
 <p>🏆 Top 04 Pentest Leadership at Strike 2025 — Strike® </p>
 <p>🏆 Top 07 Bug Bounty Brasil 2025 — BugPay®/Hackaflag </p>
